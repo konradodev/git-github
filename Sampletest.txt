@@ -1,1 +1,3 @@
 This is my first program. Dont copy this.
+
+I'm python developer and I create django web apps
